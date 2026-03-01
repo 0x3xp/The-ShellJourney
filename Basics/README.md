@@ -13,21 +13,21 @@ To follow this journey in order, use the links below:
 * [0x01 Introduction](./Basics/0x01-Introduction.md) - Understanding the Kernel and Shell.
 * [0x02 Basics](./Basics/0x02-Basics.md) - Permissions, the environment, and help systems.
 * [0x03 Basic Linux Commands](./Basics/0x03-BasicLinuxCommands.md) - Navigation and file manipulation.
-* [0x04 Input and Output Redirection](./Basics/0x04-Input_and_Output_Redirection.md) - Pipes, redirections, and streams.
+* [0x04 Input and Output Redirection](./Basics/0x04-Input-and-Output-Redirection.md) - Pipes, redirections, and streams.
 
 ### Part 2: Scripting Logic
 * [0x05 Variables](./Basics/0x05-Variables.md) - Storing and using data.
 * [0x06 Strings](./Basics/0x06-Strings.md) - Text manipulation and formatting.
 * [0x07 Arrays](./Basics/0x07-Arrays.md) - Managing lists of data.
-* [0x08 Conditional Statements](./Basics/0x08-Conditional_Statements.md) - If/Then logic and branching.
-* [0x09 Loop Statements](./Basics/0x09-Loop_Statements.md) - For, While, and Until loops.
+* [0x08 Conditional Statements](./Basics/0x08-Conditional-Statements.md) - If/Then logic and branching.
+* [0x09 Loop Statements](./Basics/0x09-Loop-Statements.md) - For, While, and Until loops.
 
 ### Part 3: Advanced Concepts
 * [0x10 Functions](./Basics/0x10-Functions.md) - Writing reusable code blocks.
-* [0x11 Arguments and Special Parameters](./Basics/0x11-Arguments_and_Special_Parameters.md) - Handling command line input.
+* [0x11 Arguments and Special Parameters](./Basics/0x11-Arguments-and-Special-Parameters.md) - Handling command line input.
 * [0x12 Examples](./Basics/0x12-Examples.md) - Practical script walkthroughs.
-* [0x13 Basic Obfuscation](./Basics/0x13-Basic_Obfuscation.md) - Introduction to hiding script intent.
-* [0x14 Exam Preparation](./Basics/0x14-Exam_Preparation.md) - Review and final challenge.
+* [0x13 Basic Obfuscation](./Basics/0x13-Basic-Obfuscation.md) - Introduction to hiding script intent.
+* [0x14 Exam Preparation](./Basics/0x14-Exam-Preparation.md) - Review and final challenge.
 
 ## Legal Disclaimer
 The content provided in this repository is for research and educational purposes only. Use of these tools for attacking targets without prior mutual consent is illegal. It is the responsibility of the end user to obey all applicable local, state, and federal laws. I assume no liability and am not responsible for any misuse or damage caused by this code.
@@ -40,3 +40,6 @@ The content provided in this repository is for research and educational purposes
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+If you have suggestions for new topics or want to collaborate on security research, feel free to open an issue.
