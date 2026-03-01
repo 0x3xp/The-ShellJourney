@@ -6,7 +6,7 @@ Welcome to my shell scripting repository. This project serves as a digital log o
 I believe that high quality technical education should be accessible to everyone. In this repository, I recreate and document core shell scripting concepts taught in paid courses, providing original examples and scripts through the lens of a security researcher.
 
 ## Repository Structure
-
+~~~
 Project Root
 ├── 01 Basics
 │   ├── 01 Linux Commands
@@ -26,7 +26,7 @@ Project Root
 │   ├── Persistence Mechanisms
 │   └── Obfuscation Techniques
 └── README.md
-
+~~~
 ## Course Module Mapping
 I am currently working through the following foundational modules:
 1 Basic Linux Commands
