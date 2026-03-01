@@ -42,11 +42,12 @@ I am currently working through the following foundational modules:
 The content provided in this repository is for research and educational purposes only. Use of these tools for attacking targets without prior mutual consent is illegal. It is the responsibility of the end user to obey all applicable local, state, and federal laws. I assume no liability and am not responsible for any misuse or damage caused by this code.
 
 ## How to Use
+```
 1 Clone the repository to your local machine.
 2 Navigate to the desired folder.
 3 Grant execution permissions using: chmod +x scriptname.sh
 4 Run the script using: ./scriptname.sh
-
+```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
