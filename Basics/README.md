@@ -18,7 +18,7 @@ To follow this journey in order, use the links below:
 ### Part 2: Scripting Logic
 * [0x05 Variables](0x05-Variables.md) - Storing and using data.
 * [0x06 Strings](0x06-Strings.md) - Text manipulation and formatting.
-* [0x07 Arrays](/0x07-Arrays.md) - Managing lists of data.
+* [0x07 Arrays](0x07-Arrays.md) - Managing lists of data.
 * [0x08 Conditional Statements](0x08-Conditional-Statements.md) - If/Then logic and branching.
 * [0x09 Loop Statements](0x09-Loop-Statements.md) - For, While, and Until loops.
 
@@ -43,4 +43,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 If you have suggestions for new topics or want to collaborate on security research, feel free to open an issue.
+
 
